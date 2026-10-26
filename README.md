@@ -27,7 +27,7 @@ An end-to-end data analytics project exploring retail pharmaceutical transaction
     ├── pharma_sales_dashboard.pbix # Interactive Power BI report file
     └── dashboard_preview.png       # Captured preview image of the visual dashboard
 ```
-
+https://roadmap.sh/projects/pharmaceutical-sales-data
 ---
 
 ## 🔍 Key Data Insights & Exploration
